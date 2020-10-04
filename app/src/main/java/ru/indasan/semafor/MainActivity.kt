@@ -7,7 +7,7 @@ import android.view.View
 import android.widget.ImageButton
 import android.widget.ImageView
 import java.util.*
-
+// Ver 1.0
 class MainActivity : Activity() {
     var count:Int = 0;
     var imageArray:IntArray = intArrayOf(R.drawable.semafor_green,R.drawable.semafor_yellow,R.drawable.semafor_red)
